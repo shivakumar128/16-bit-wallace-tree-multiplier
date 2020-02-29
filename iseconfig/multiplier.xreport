@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2020-02-29T16:28:45</DateModified>
+  <DateModified>2020-02-29T16:44:48</DateModified>
   <ModuleName>multiplier</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>C:/Users/shivakumar/mulll/iseconfig/multiplier.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Users/shivakumar/mulll\</ImplementationReportsDirectory>
+  <SavedFilePath>C:/Users/shivakumar/Documents/GitHub/16-bit-wallace-tree-multiplier/iseconfig/multiplier.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>C:/Users/shivakumar/Documents/GitHub/16-bit-wallace-tree-multiplier\</ImplementationReportsDirectory>
   <DateInitialized>2020-02-29T10:36:58</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
