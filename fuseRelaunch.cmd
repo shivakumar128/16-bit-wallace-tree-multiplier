@@ -1,1 +1,1 @@
--intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/shivakumar/mulll/testmult_isim_beh.exe" -prj "C:/Users/shivakumar/mulll/testmult_beh.prj" "work.testmult" "work.glbl" 
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/shivakumar/Documents/GitHub/16-bit-wallace-tree-multiplier/testmult_isim_beh.exe" -prj "C:/Users/shivakumar/Documents/GitHub/16-bit-wallace-tree-multiplier/testmult_beh.prj" "work.testmult" "work.glbl" 

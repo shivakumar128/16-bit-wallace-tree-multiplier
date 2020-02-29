@@ -21,8 +21,8 @@
 #include <malloc.h>
 #define alloca _alloca
 #endif
-static const char *ng0 = "C:/Users/shivakumar/mulll/testmult.v";
-static unsigned int ng1[] = {7U, 0U};
+static const char *ng0 = "C:/Users/shivakumar/Documents/GitHub/16-bit-wallace-tree-multiplier/testmult.v";
+static unsigned int ng1[] = {4U, 0U};
 
 
 

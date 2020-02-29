@@ -44,8 +44,8 @@ module testmult;
 
 	initial begin
 		// Initialize Inputs
-		a = 16'h7;
-		b = 16'h7;
+		a = 16'h4;
+		b = 16'h4;
 
 		// Wait 100 ns for global reset to finish
 		#100;
